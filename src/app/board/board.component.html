@@ -1,0 +1,7 @@
+<div class="board">
+    <audio src="../../assets/move.wav" id="moveSound" controls="controls" style="display:none">
+        Your browser does not support the audio element.
+        </audio>
+    <app-tile *ngFor="let i of ' '.repeat(64).split(''), let x = index " [setColor]=x>
+    </app-tile> 
+</div>

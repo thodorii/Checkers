@@ -1,0 +1,17 @@
+{
+    "editorCursor.foreground": "#fd4472",
+    "statusBar.background": "#2caefa",
+    "statusBar.border": "#77e5f8",
+    "statusBar.debuggingBackground": "#bb3556",
+    "statusBar.debuggingBorder": "#e66283",
+    "editorLineNumber.foreground": "#63c5dd",
+    "editor.lineHighlightBorder": "#7bb3fd5e",
+    "editor.lineHighlightBackground": "#398fff41",
+    "editor.selectionBackground": "#fa7ee980",
+    "editor.selectionHighlightBorder": "#fd9af06b",
+    "editor.selectionHighlightBackground": "#fa7ee934",
+    "menu.border": "#93f898",
+    "panel.border": "#93f898",
+    "tab.hoverBorder": "#93f898",
+    "workbench.colorTheme": "Andromeda Italic Bordered",
+}

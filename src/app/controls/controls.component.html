@@ -1,0 +1,17 @@
+<div class="container">
+    <h3>CONTROLS</h3>
+    <hr>
+    <div style="font-size: 2rem; padding-bottom: 20px;">
+        <span style="font-weight: bolder;">Turn:  </span>
+        <span class="team" *ngIf="this.game.whoseTurn==true">white</span>
+        <span class="team" *ngIf="this.game.whoseTurn==false">Black</span>
+    </div>
+    <div>
+        <span>White Count:</span>
+        <span>  {{this.game.whiteCount}}</span>
+    </div>
+    <div>
+        <span>Black Count:  {{this.game.blackCount}}</span>
+    </div>
+    <button (click)="restart()">Restart</button>
+</div>

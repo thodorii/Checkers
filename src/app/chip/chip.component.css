@@ -1,0 +1,11 @@
+.chip{
+    display: inline-block;
+    position: relative;
+    background-color: yellow;
+    min-height:50px;
+    min-width: 50px;
+    border-radius: 50%;
+    border-width: 5px;
+    border-color:rgb(140,140,140);
+    border-style: solid;
+}
